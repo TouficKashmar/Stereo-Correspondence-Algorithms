@@ -1,0 +1,48 @@
+
+Computing disparity for sawtooth
+FAST + FREAK RMSE: 9.74458
+FAST + FREAK Bad matches: 34.6734%
+AGAST + FREAK RMSE: 10.0635
+AGAST + FREAK Bad matches: 37.9699%
+SIFT RMSE: 9.0505
+SIFT Bad matches: 29.8387%
+
+Computing disparity for barn1
+FAST + FREAK RMSE: 8.22018
+FAST + FREAK Bad matches: 26.6994%
+AGAST + FREAK RMSE: 8.16647
+AGAST + FREAK Bad matches: 26.0066%
+SIFT RMSE: 8.44025
+SIFT Bad matches: 28.6%
+
+Computing disparity for barn2
+FAST + FREAK RMSE: 5.49015
+FAST + FREAK Bad matches: 9.04564%
+AGAST + FREAK RMSE: 5.52056
+AGAST + FREAK Bad matches: 9.2535%
+SIFT RMSE: 5.79849
+SIFT Bad matches: 8.46561%
+
+Computing disparity for bull
+FAST + FREAK RMSE: 8.78767
+FAST + FREAK Bad matches: 25%
+AGAST + FREAK RMSE: 8.99933
+AGAST + FREAK Bad matches: 27.414%
+SIFT RMSE: 9.9296
+SIFT Bad matches: 36.8146%
+
+Computing disparity for venus
+FAST + FREAK RMSE: 9.45999
+FAST + FREAK Bad matches: 35.7143%
+AGAST + FREAK RMSE: 9.32723
+AGAST + FREAK Bad matches: 34.0819%
+SIFT RMSE: 10.0374
+SIFT Bad matches: 48.3544%
+
+Computing disparity for poster
+FAST + FREAK RMSE: 10.2364
+FAST + FREAK Bad matches: 32.1057%
+AGAST + FREAK RMSE: 10.2684
+AGAST + FREAK Bad matches: 33.4131%
+SIFT RMSE: 10.0381
+SIFT Bad matches: 31.516%
